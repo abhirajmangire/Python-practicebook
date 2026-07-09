@@ -8,8 +8,7 @@ print(marks[3])
 marks[3]=00
 print(marks[3])
 print(marks)
-
-
+
 #list slicing 
 print(marks[3:7])
 print(marks[:6])
